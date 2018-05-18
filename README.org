@@ -1,0 +1,6 @@
+
+* Overview
+  This repo is used as study notes for learning data structure with Go.
+
+* Data sturcture
+** Link list
